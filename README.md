@@ -6,6 +6,8 @@
   
 ## Week1 
 ### 1. UVA 459 Graph Connectivity    
+[題目](https://vjudge.net/problem/UVA-459)  
+[code](https://github.com/jinyulink/Special-Topics-on-Computer-Programming/blob/main/week_1/1_110403518_%E6%9E%97%E6%99%89%E5%AE%87.cpp)  
 DSU / DFS / BFS  
   
 ### 2. UVA 10196 Check the Check  
