@@ -2,6 +2,7 @@
 // UVA 459 Graph Connectivity
 // Disjoint Set Union
 // 2022/09/21
+// 跟dfs比 空間只要O(n) n為點數
 #include<bits/stdc++.h>
 #define IO cin.tie(0);cout.tie(0);ios_base::sync_with_stdio(false)
 #define ll long long 
