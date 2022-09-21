@@ -1,4 +1,4 @@
-// µ{¦¡³]­p¬ã¨s±MÃD Week 1
+// ç¨‹å¼è¨­è¨ˆç ”ç©¶å°ˆé¡Œ Week 1
 // UVA 10324 Zeros and Ones
 // Prefix Sum
 // 2022/09/21
