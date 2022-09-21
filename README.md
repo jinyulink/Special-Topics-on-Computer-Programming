@@ -19,6 +19,6 @@ DSU / DFS / BFS
   
 ### 5. UVA 10324 Zeros and Ones  
 直接硬做可O(tn)  
-//n為字串長度 最大1e7  t為詢問筆數
+//n為字串長度 最大1e7  t為詢問筆數  
 前綴和O(n)  
   
