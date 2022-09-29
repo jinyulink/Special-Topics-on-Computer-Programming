@@ -20,9 +20,21 @@ DSU / DFS / BFS
 數學  
   
 ### 5. UVA 10324 Zeros and Ones  
-[題目](https://vjudge.net/problem/UVA-10324)  
-[code](https://github.com/jinyulink/Special-Topics-on-Computer-Programming/blob/main/week_1/5_110403518_%E6%9E%97%E6%99%89%E5%AE%87.cpp)  
-直接硬做可O(tn)  
-//n為字串長度 最大1e7  t為詢問筆數  
-前綴和O(n)  
+
   
+## Week2  
+### 1. UVA 10191 Longest Nap      
+
+  
+### 2. UVA 10138 CDVII    
+ 
+  
+### 3. UVA 10044 Erdos Number  
+
+  
+### 4. UVA 10194 Football (aka Soccer)    
+  
+  
+### 5. UVA 00311 Packets    
+[題目](https://vjudge.net/problem/UVA-311)
+Greedy  
