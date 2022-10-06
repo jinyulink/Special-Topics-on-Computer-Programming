@@ -41,4 +41,21 @@ DSU / DFS / BFS
   
 ### 5. UVA 00311 Packets    
 [題目](https://vjudge.net/problem/UVA-311)  
-Greedy
+Greedy  
+
+## Week3  
+Trie  
+### 1. UVA 10150 Doublets      
+用Trie儲存單字，建立鄰接表，每個單字尋找可能變換的單字，最後在鄰接表上用bfs找最短路徑，並印出路徑。  
+  
+### 2. UVA 00719 Glass beads    
+two pointers   
+  
+### 3. UVA 10679 I Love Strings!!    
+KMP / BM (KMP延伸: AC自動機)  
+  
+### 4. UVA    
+  
+  
+### 5. UVA 10580    
+Suffix , Binary Search
