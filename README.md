@@ -53,6 +53,8 @@ two pointers
   
 ### 3. UVA 10679 I Love Strings!!    
 KMP / BM (KMP延伸: AC自動機)  
+[題目](https://vjudge.net/problem/UVA-10679)  
+[code](https://github.com/jinyulink/Special-Topics-on-Computer-Programming/blob/main/week_3/3_110403518_%E6%9E%97%E6%99%89%E5%AE%87.cpp)  
   
 ### 4. UVA    
   
