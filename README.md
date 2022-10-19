@@ -31,7 +31,7 @@ DSU / DFS / BFS
 
   
 ### 2. UVA 10138 CDVII    
- 
+[題目連結](https://vjudge.net/problem/UVA-10138)  
   
 ### 3. UVA 10044 Erdos Number  
 
@@ -61,3 +61,17 @@ KMP / BM (KMP延伸: AC自動機)
   
 ### 5. UVA 10580    
 Suffix , Binary Search
+
+## Week4  
+大數 自己手刻加減乘除    
+### 1. UVA 10023 Square root       
+[題目](https://vjudge.net/problem/UVA-10023)  
+### 2. UVA 00719 Glass beads    
+two pointers   
+  
+### 3. UVA 10127 Ones      
+  
+### 4. UVA  10220 I Love Big Numbers !    
+   
+### 5. UVA 10723 Cyborg Genes      
+ 
