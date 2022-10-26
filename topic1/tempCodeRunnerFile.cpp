@@ -1,1 +1,0 @@
-query(L,R,l,mid,now<<1)
