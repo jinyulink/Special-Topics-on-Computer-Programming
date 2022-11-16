@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp",
+        "algorithm": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "iterator": "cpp"
+    }
+}
