@@ -29,7 +29,7 @@ pll search(ll x)
         else if(dbs[i][pos]==x&&exist[i][pos])  ret.F=i,ret.S=pos; //如果是x，且並未被刪除，則return所在位置
     }
     return ret;
-}
+} 
 void merge(vt<ll> &a,vt<bool> &b,ll h)
 {
     if(h>=n.size()) //如果h已超過現在的深度，則在新增一層空陣列進去
