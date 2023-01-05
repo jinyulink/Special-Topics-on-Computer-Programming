@@ -1,14 +1,17 @@
 //110403518 林晉宇
 //程式設計研討專題 3
 //UVA 10482 The Candyman Can
-//bit operation 版本
+//top down 版本
 #include<bits/stdc++.h>
 #define IO cin.tie(0);cout.tie(0);ios_base::sync_with_stdio(false)
 #define ll long long 
+#define ve vector
+#define pb push_back
 using namespace std;
 const ll MAXN = 2e4;
-ll t,n,k,sum,ans,coin[201];
+ll t,n,k,sum[201],ans,coin[201];
 bitset<20000> dp[20000];
+vt<ll> v;
 void init()
 {
     sum=0;
@@ -31,17 +34,18 @@ int main()
         {
             cin>>coin[i];
             sum+=coin[i];
+            dp[i+1]=((dp[i]<<coin[i])|dp[i]);
+            if(i) sum[i]+=sum[i-1];
         }
-        for(ll i=0;i<n;i++)
-            for(ll j=sum;j>=0;j--)
+        for(ll i=0;i<=sum[n-1];i++) if(dp[n][i])    v.pb(i);
+        ans=sum[n-1];
+        for(ll i=0;i<=ans;i++)
+            for(ll j=0;j<=v.size();j++)  
             {
-                dp[j+coin[i]]|=dp[j];
-                dp[j]|=dp[j]<<coin[i];
+                ll k=sum[n-1]-2*v[j]-i
+                if(k<0) break;
+                
             }
-        ans=sum;
-        for(ll i=0;i<=sum;i++)
-            for(ll j=0;j<=sum;j++)  
-                if(dp[i][j])    ans=min(ans,Min(i,j,sum-i-j));
         cout<<"Case "<<k-t<<": "<<ans<<'\n';
     }
     return 0;
