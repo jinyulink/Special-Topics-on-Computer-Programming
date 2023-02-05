@@ -4,7 +4,7 @@
 到目前為止修過最硬的一堂選修課 : )
 期中: 1/3 AC
 期末: 2/3 AC
-最終學期成績: 97 (
+最終學期成績: 97 (thank god)
   
 ## Week1 
 ### 1. UVA 459 Graph Connectivity    
